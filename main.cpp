@@ -16,3 +16,6 @@ int main() {
     return 0;
 }
 
+void print(){
+    cout << "hey";
+}
