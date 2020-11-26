@@ -10,3 +10,7 @@ int main() {
     cout << "how are you?" << endl;
     return 0;
 }
+
+void print(){
+    cout << "hey";
+}
